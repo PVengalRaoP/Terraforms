@@ -1,1 +1,1 @@
-RDS postgres and mysql -->  Terraform
+RDS mysql -->  Terraform
